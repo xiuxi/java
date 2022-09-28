@@ -1,0 +1,1 @@
+call srt_join.bat

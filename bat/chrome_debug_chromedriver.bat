@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 @D:\gitHub\java_ubuntu_windows\java\cp_603say7cx2hwdx874q18pqeil.argfile j.chrome_debug_chromedriver

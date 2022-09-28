@@ -1,0 +1,1 @@
+es -r E: ".pdf" > D:\gitHub\java_ubuntu_windows\pdf\pdf_srt_list_everything_es.pdf.txt

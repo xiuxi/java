@@ -1,0 +1,1 @@
+java j.go_create %1%

@@ -1,0 +1,1 @@
+go run D:\gitHub\java_ubuntu_windows\g\srt_en_add_zh_dir_before.go %1%

@@ -1,0 +1,1 @@
+taskkill /IM "balcon.exe" /F

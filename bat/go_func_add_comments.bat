@@ -1,0 +1,1 @@
+java j.go_func_add_comments

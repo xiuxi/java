@@ -1,0 +1,1 @@
+"C:\Python27\python.exe" "C:\Python27\Tools\Scripts\2to3.py" . -w

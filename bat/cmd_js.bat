@@ -1,0 +1,1 @@
+python D:\gitHub\java_ubuntu_windows\bat\js.py %1 %2

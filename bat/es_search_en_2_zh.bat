@@ -1,0 +1,1 @@
+es %1 > D:\gitHub\java_ubuntu_windows\bat\es_search_en_2_zh.txt

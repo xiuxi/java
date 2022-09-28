@@ -1,0 +1,1 @@
+cp *.zh_en.srt D:\vtt_srt_时间正确\new\ok\ok\all_srt_from_vtt\zh_en_srt\

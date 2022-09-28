@@ -1,0 +1,1 @@
+java j.pin_yin_chinese2pinyin "%1"

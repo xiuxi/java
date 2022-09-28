@@ -1,0 +1,1 @@
+"D:\program\VideoLAN\VLC\vlc.exe" -v rtsp://127.0.0.1:8554/stream1
