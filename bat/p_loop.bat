@@ -5,7 +5,9 @@ rem java j.git_copy_push
 java j.copy_push
 git add .
 git commit -m "a"
-git push
+java j.speak "please upload desktop git"
+pause
+rem git push
 goto loop
 rem D:\gitHub\java_ubuntu_windows\src\main\java\j\git_copy_push.txt
 rem git clean -df

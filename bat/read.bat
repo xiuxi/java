@@ -1,4 +1,6 @@
+java j.name_tidy
 call gbk.bat
+
 pushd .
 D:\gitHub\java_ubuntu_windows\bat\color.py
 d:

@@ -10,10 +10,10 @@ for /F  %%A in (youtube_ids.txt) do (
 	)
 )
 
-for %%f in (*.vtt) do (
-	if exist "%%~nf.srt" (
-		rem file exists
-	) else (
-		ffmpeg -y -i "%%f" "%%~nf.srt"
-	)
-)
+rem for %%f in (*.vtt) do (
+rem 	if exist "%%~nf.srt" (
+rem 		rem file exists
+rem 	) else (
+rem 		ffmpeg -y -i "%%f" "%%~nf.srt"
+rem 	)
+rem )
