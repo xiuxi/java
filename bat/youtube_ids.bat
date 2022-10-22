@@ -1,5 +1,21 @@
 call proxy
 set CLASSPATH=.;D:\gitHub\java_ubuntu_windows\target\classes;D:\gitHub\java_ubuntu_windows\dependency\*
+java j.youtube_ids_from_browser_edge_chrome
+@REM www.youtube.com.txt
+@REM www.youtube.com_21st_Oct_2022.txt
+@REM java j.youtube_ids_from_browser_edge_chrome
+
+@REM function start(counter){
+@REM   if(counter < 20){
+@REM     setTimeout(function(){
+@REM       counter++;
+@REM       window.scrollTo(0,document.querySelector("ytd-playlist-video-list-renderer.style-scope").scrollHeight);
+@REM       start(counter);
+@REM     }, 3000);
+@REM   }
+@REM }
+@REM start(0);
+
 
 @REM call vtt_download_from_youtube_en.bat
 @REM vtt_en.bat

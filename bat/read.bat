@@ -1,4 +1,4 @@
-java j.name_tidy
+rem java j.name_tidy
 call gbk.bat
 
 pushd .

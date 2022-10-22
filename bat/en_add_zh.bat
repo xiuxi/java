@@ -1,4 +1,8 @@
-java j.en_add_zh
+call pdf_en_add_zh_loop.bat
+
+
+
+@REM java j.en_add_zh
 
 @REM cd youtube
 @REM java j.name_tidy
