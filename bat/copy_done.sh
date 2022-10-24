@@ -1,3 +1,4 @@
+#!/bin/bash
 java j.copy_done
 jav
 pwd
