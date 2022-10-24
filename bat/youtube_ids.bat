@@ -1,6 +1,9 @@
 call proxy
 set CLASSPATH=.;D:\gitHub\java_ubuntu_windows\target\classes;D:\gitHub\java_ubuntu_windows\dependency\*
-java j.youtube_ids_from_browser_edge_chrome
+mv C:\Users\xiuxi\Downloads\youtube_ids.txt .\
+java j.move_www_youtube_com_txt
+java j.youtube_ids_from_browser_edge_chrome %1 %2 %3 %4 %5 %6
+java j.download_youtube_ids_from_serverpoint
 @REM www.youtube.com.txt
 @REM www.youtube.com_21st_Oct_2022.txt
 @REM java j.youtube_ids_from_browser_edge_chrome
