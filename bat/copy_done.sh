@@ -1,3 +1,3 @@
 java j.copy_done
-java
+jav
 echo "copy_done"
