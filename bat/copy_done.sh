@@ -1,5 +1,5 @@
 #!/bin/bash
 java j.copy_done
-jav
 pwd
+whereis java
 echo "copy_done2"
