@@ -9,9 +9,6 @@ import (
 
 // https://freshman.tech/snippets/go/list-files-in-dir/
 func main() {
-	if true {
-		return
-	}
 	var (
 		files []string
 	)
@@ -25,7 +22,6 @@ func main() {
 		if info.IsDir() {
 			return nil
 		}
-		fmt.Println(path)
 		files = append(files, path)
 		return nil
 	})
