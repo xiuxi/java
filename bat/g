@@ -1,0 +1,1 @@
+go run /java/go/$1.go
