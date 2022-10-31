@@ -9,6 +9,7 @@ import (
 
 // https://freshman.tech/snippets/go/list-files-in-dir/
 func main() {
+	fmt.Println("ls.go")
 	if true {
 		return
 	}
