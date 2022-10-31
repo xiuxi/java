@@ -12,6 +12,7 @@ func main() {
 	if true {
 		return
 	}
+	fmt.Println("go")
 	var (
 		files []string
 	)
